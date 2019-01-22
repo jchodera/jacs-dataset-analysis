@@ -1,0 +1,12 @@
+name: jacs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - xlrd
+  - numpy
+  - seaborn
+  - matplotlib
+  - notebook
