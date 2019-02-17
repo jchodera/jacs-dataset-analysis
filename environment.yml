@@ -10,3 +10,5 @@ dependencies:
   - seaborn
   - matplotlib
   - notebook
+  - scikit-learn
+  - scipy
