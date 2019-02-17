@@ -6,7 +6,8 @@ This notebook is an analysis of the errors in relative free energy calculations 
 http://doi.org/10.1021/ja512751q
 
 ## Manifest
-* `notebook.ipynb` - Jupyter notebook
+* `AMBER TI chemRxiv analysis - mapped edge DDGs.ipynb` - analysis of mapped edge DDG statistics
+* `AMBER TI chemRxiv analysis - DG and allpairs DDG.ipynb` - analysis of DG and all-pairs DDG statistics
 * `environment.yml` - conda environment
 * `LICENSE` - copy of the MIT License this work is licensed under
 * `jacs-analysis.pdf` - figure produced by the analysis
